@@ -1,0 +1,23 @@
+configurar nome
+git config --global user.name"digite seu nome"
+nome e email deverar ser digitado igual seu nome no github
+
+git configurar email
+git config --global user.email"exemplo@email.com" 
+
+comandos mais usados:
+
+git clone
+faço uma copia do repositorio para minha maquina
+
+git status
+faço para ver como está o projeto
+
+git add
+faço para adicionar algo criado  no repositorio
+
+git commit
+faço para comentar sobre o projeto
+
+git push
+faço para empurar as alterações da minha maquina para o repositorio
